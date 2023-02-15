@@ -1,0 +1,63 @@
+
+.hid{
+     display:none;  
+         background-color: blue; 
+} 
+.hover{
+    color:yellow;
+    font-size: 30px;
+}
+.btnFaq{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  
+    /* background-color:red; */
+    margin-left: -25px;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom:-380px;
+
+
+}
+.faq{
+    margin-top:-44px;
+}
+.p {
+    width:600px;
+}
+.containerFaq{
+margin-left: -100px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-bottom: 1px solid black;
+font-size: 10px;
+
+}
+.move{
+    margin-top: -90px;
+    margin-bottom:40px;
+    width: 700px;
+    background-color: yellow;
+}
+.faq h2{
+    font-size:18px;
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+/* .myContainer7{
+    margin-bottom:50px
+} */
+
+.myContainer7{
+    /* background-color: red; */
+    overflow: hidden;
+    width: 600px;
+    padding-left: 150px;
+    margin-left: -200px;
+}
+.innertext{
+    font-size:15px;
+    margin-top: -10px;
+    margin-bottom:15px;
+
+}

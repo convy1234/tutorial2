@@ -1,0 +1,96 @@
+.container7{
+    margin-top: 60px;
+    /* display: none; */
+    position: relative;
+    float: right;
+    z-index: 2;
+    display: grid;
+    margin-bottom: -360px;
+    background-color:rgb(253, 253, 253);
+    padding: 30px;
+    box-shadow: 5px 10px 18px #888888;
+    margin-right:20px;
+    width:350px;
+    height: 400px;
+    justify-content:center;
+
+}
+.containHid{
+    display: none;
+}
+.btn-signup{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: px;
+    height: 40px;
+    margin-top: -39px;
+
+}
+.container-Input{
+    margin-top:-20px;
+
+}
+.email{
+    margin-bottom:-34px;
+}
+.input-control{
+   
+    border: 1px solid black;
+    width: 290px;
+    height:30px;
+    margin-top: 0px;
+    border-radius: 10px;
+    margin-top: -30px;
+}
+.input-control::placeholder{
+    padding-left: 20px;
+}
+.w2nd{
+    display: grid;
+    text-align: center;
+
+}
+.links-social{
+    display:grid;
+    grid-template-columns: 18% 18% 15% ;
+    justify-content: center;
+    width: 300px;
+    /* background-color: red; */
+    margin-bottom: 8px;
+    margin-top: -30px;
+}
+/* .Social{
+    width: 30px
+} */
+.w2nd h3{
+    font-size:12px;
+    margin-top:-40px;
+    
+}
+.header7{
+    margin-bottom:-30px
+}
+.Social{
+    background-color:transparent;
+    border: none;
+    background-color: #000000ef;
+    width: 40px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-right: 10px;
+   
+}
+.G{
+    color:rgb(231, 131, 0)
+
+}
+.F{
+    color: blue;
+    
+}
+.A{
+    color: white;
+    
+}

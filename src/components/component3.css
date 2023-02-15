@@ -1,0 +1,28 @@
+.contain3{
+    display: grid;
+    grid-template-columns: 35% 35% 40%;
+    margin-left: -8%;
+    
+}
+.Header h1{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+}
+.Header{
+    margin-bottom:6%;
+    margin-top: -10%;
+}
+.template{
+    width: 300px;
+    margin:0px;
+    padding:0px;
+    border-radius: 20px;
+    margin-bottom:10%;
+    /* border-top-left-radius:20px;
+    border-top-right-radius:20px; */
+    background-color: rgba(237, 234, 234, 0.891);
+}
+.contain4{
+    margin-left: 8%;
+}
